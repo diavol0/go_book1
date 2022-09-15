@@ -8,5 +8,4 @@ func main() {
 	fmt.Println("What's your name?")
 	fmt.Scanf("%s\n", &line)
 	fmt.Printf("Привет , %s!\n", line)
-
 }
